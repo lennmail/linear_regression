@@ -1,6 +1,6 @@
 /* This program run a linear regression on the input data. For this script to work, you need the ETS I wrote.
 It can be found here: https://github.com/lennmail/ETL. Additionally, dimensions of the data have to be adjusted 
-with every different dataset.*/
+with different datasets.*/
 
 #include "LinReg.h"
 #include "ETL.h"
